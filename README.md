@@ -1,0 +1,1 @@
+HL2TS2 high-quality models added into sh.citizen.lua via FACTION.models hook for those who are lazy adding custom models one by one. You only need to install HL2TS2 Models through workshop (install HL2TS2 Content too for seperate bodygroups)
